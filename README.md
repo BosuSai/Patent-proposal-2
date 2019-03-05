@@ -1,2 +1,3 @@
 # Patent-proposal-2
-City level Advertisement website only for local vendors of that city with innovative strategies to increase website traffic for advertising their business and products to citizens of city.  3
+If enterprise advertisements aim at selling products, it would cause less critical concern, but it sells dreams and ideal ways of life. The main idea of innovation is developing web application and mobile application (Android and iOS) for advertising business of local city vendors, events in cities and launch of new products in city. This website is specific  to each city. The website offers various services and adopt various strategies to attract people to visit website. 
+ 
